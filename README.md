@@ -1,6 +1,4 @@
 # BouncyBall
-Physics-based ball collision game written in Java
-
 
 •	Created a physics-based simulation of elastic collision between two balls
 
